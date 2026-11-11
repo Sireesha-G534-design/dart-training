@@ -1,4 +1,5 @@
 //positional parameter
+//syntax
 //returnType functionName(dataType parameter1, dataType parameter2) {
   // Function body
 //}
